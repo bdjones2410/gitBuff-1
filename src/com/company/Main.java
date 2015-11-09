@@ -319,7 +319,7 @@ public class Main {
 
         Spark.get("/random-quote",
                 (request, response) -> {
-                    JsonSerializer serializer = new JsonSerializer(); //remember to create getters in Country class
+                    JsonSerializer serializer = new JsonSerializer();
                     String json = serializer.serialize(createQuote(conn));
                     return serializer.serialize(json);
                 });
