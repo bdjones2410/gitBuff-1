@@ -10,6 +10,10 @@ OVERALL BODY
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> afb28d8cf05a6ee344a50b972a0596982bde4103
 body{
   background-color: $medGreen;
   font-family: 'Josefin Sans', sans-serif;
@@ -126,6 +130,7 @@ section  .login{
 
 .noteBG{
   background-color:$tangerine;
+<<<<<<< HEAD
   border-top-right-radius: 18px;
   border-bottom-left-radius: 50px;
 
@@ -133,6 +138,14 @@ section  .login{
 .workBG{
   background-color:$medGreen;
   border-top-left-radius: 18px;
+=======
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 50px;
+}
+.workBG{
+  background-color:$medGreen;
+  border-top-left-radius: 10px;
+>>>>>>> afb28d8cf05a6ee344a50b972a0596982bde4103
   border-bottom-right-radius: 50px;
 }
 nav .col-md-12{
@@ -236,8 +249,13 @@ section{
   padding:0;
   padding-bottom:5px;
   float:none;
+<<<<<<< HEAD
   border-top-right-radius: 15px;
   border-top-left-radius: 15px;
+=======
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+>>>>>>> afb28d8cf05a6ee344a50b972a0596982bde4103
 }
 
 .worktype{

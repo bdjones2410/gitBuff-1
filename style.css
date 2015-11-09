@@ -13,6 +13,10 @@ body {
   color: white;
   margin: 0 auto; }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> afb28d8cf05a6ee344a50b972a0596982bde4103
 .btn:hover {
   background-color: white;
   border: white;
@@ -66,9 +70,12 @@ header {
 /******************************************
 LOGIN SCREEN
 *******************************************/
+<<<<<<< HEAD
 .error {
   text-align: center; }
 
+=======
+>>>>>>> afb28d8cf05a6ee344a50b972a0596982bde4103
 section .login {
   background-color: white;
   width: 40%;
@@ -93,12 +100,20 @@ section .login {
 ***************************************/
 .noteBG {
   background-color: #F7840F;
+<<<<<<< HEAD
   border-top-right-radius: 18px;
+=======
+  border-top-right-radius: 10px;
+>>>>>>> afb28d8cf05a6ee344a50b972a0596982bde4103
   border-bottom-left-radius: 50px; }
 
 .workBG {
   background-color: #A2AB2A;
+<<<<<<< HEAD
   border-top-left-radius: 18px;
+=======
+  border-top-left-radius: 10px;
+>>>>>>> afb28d8cf05a6ee344a50b972a0596982bde4103
   border-bottom-right-radius: 50px; }
 
 nav .col-md-12 {
@@ -179,8 +194,13 @@ section {
   padding: 0;
   padding-bottom: 5px;
   float: none;
+<<<<<<< HEAD
   border-top-right-radius: 15px;
   border-top-left-radius: 15px; }
+=======
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px; }
+>>>>>>> afb28d8cf05a6ee344a50b972a0596982bde4103
 
 .worktype {
   text-decoration: underline; }
